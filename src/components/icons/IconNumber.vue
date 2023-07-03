@@ -1,6 +1,0 @@
-<template>
-	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="20px">
-		<image x="0px" y="0px" width="16px" height="20px"
-			xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAMAAACzvE1FAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA7VBMVEUIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIeckIecn///97ByJmAAAATXRSTlMAAhcoDVm61HwIm/7XBXXDAx/rlgFj/fhBo8ZTVjAgzD8n52DuSH/6cfPbHB7W9mTa2fdh6ewlSn1szj7kXKXFVy5lIZB4vJ3QW9V3KcEODCcAAAABYktHRE4ZYXHfAAAAB3RJTUUH5wYdBRYPYEqR1QAAALtJREFUGNNNkNUWwkAMRFOsQHF3d3d3t/n/32Eb6EIecs7c7E6EiEgxmc0W+gurTVXtP+lwagBcbkMrHujh9RnAH2AQDBkgLFREi8akRRxIJFNpdsvoOQvkvrV8oShyASU/y0y5gmqNqI5GU9etdke017oC9D6gP4gI+yGNMOYvocl0huicaAEsDdPVWuQNsE3u9tyWnx54sM5SDnYc8+gnCZQzg4tcjhxXff2bXF/E/fJQn/8XU0yv3wnfLFUdhZiUxWUAAAAASUVORK5CYII=" />
-	</svg>
-</template>
